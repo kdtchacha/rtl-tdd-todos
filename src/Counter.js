@@ -1,4 +1,5 @@
 import React, {useState, useCallback} from "react";
+
 const Counter = () => {
     const [number, setNumber] = useState(0);
     const onIncrease = useCallback(() => {
