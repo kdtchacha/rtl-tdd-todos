@@ -5,8 +5,8 @@ function App() {
   return (
     <div>
       <Counter />
-       <Profile username="chacha" name="이가희" />
-      <span>리액트 배우기🤦‍♀️</span>
+       <Profile username="차차" name="이차차" />
+      <span>learn React</span>
     </div>
    
   );
