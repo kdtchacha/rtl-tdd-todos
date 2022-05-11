@@ -6,7 +6,7 @@ function App() {
     <div>
       <Counter />
        <Profile username="chacha" name="이가희" />
-      <span>learn React</span>
+      <span>리액트 배우기🤦‍♀️</span>
     </div>
    
   );
